@@ -14,7 +14,6 @@ body , html{
 
 header{
     background-color: gray;
-    width: 100vw;
 }
 
 header > h1{
@@ -25,7 +24,6 @@ header > h1{
 
 span#burguer{
     background-color: rgb(61, 61, 61);
-    width: 100vw;
     display: block;
     color: white;
     text-align: center;
